@@ -1,3 +1,5 @@
-# DAA-Lab
-## Hari Vignesh L
-### 251801083
+# 🚀 DAA - Lab
+
+👨‍💻 Hari Vignesh L
+
+🎓 Register Number: 251801083
